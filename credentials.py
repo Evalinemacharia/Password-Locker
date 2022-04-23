@@ -39,5 +39,12 @@ class Contact:
         self.account = account
         self.email = email
         self.passlock = passlock
-                
+    # Init method up here
+    def save_credentials(self):
+
+        '''
+        save_credentials method saves contact objects into contact_list
+        '''
+
+        credentials.cre_list.append(self)            
         
