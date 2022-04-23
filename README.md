@@ -1,1 +1,38 @@
-# Password-Locker
+## Project Name
+* Github-ap 
+## Author
+ Evalinemacharia
+
+## Project Description
+On Average, a person has at least 7 different accounts he or she has signed into, be it email, social media, entertainment or job portal accounts. It becomes really hard to remember all those passwords and even create new ones.
+## Setup instructions
+
+## Dependencies
+
+## Project set-up description
+* Setup/Installation Requirements
+* Clone this repository using: git clone 'https://github.com/Evalinemacharia/Password-Locker.git'
+Navigate to the directory: cd Password-Locker
+Open the directory with your preffered text editor.
+* Run the file ./run to manage your file
+
+## Technologies Used
++ python3.8
+
+## The live link to Github-pages
+`https://github.com/Evalinemacharia/Password-Locker.git`
+
+## Contact information
+* Evaline Macharia : evalinemacharia99@gmail.com
+* License
+
+## MIT License
+
+Copyright (c) 2022 Evalinemacharia
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
