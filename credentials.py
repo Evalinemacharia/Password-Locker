@@ -58,9 +58,14 @@ class Credentials:
                     return True
 
         return False  
-    @classmethod
-    def display_cred(cls):
-        '''
-        method that returns the contact list
-        '''
-        return cls.cred_list            
+    # @classmethod
+    # def display_cred(cls):
+    #     '''
+    #     method that returns the contact list
+    #     '''
+    #     return cls.cred_list 
+
+    # @classmethod
+    # def copy_passlock(cls, passlock):
+    #         find_account = Credentials.find_account(passlock)
+    #         pyperclip.copy(find_account.passlock)                   
