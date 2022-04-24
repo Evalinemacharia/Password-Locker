@@ -1,13 +1,11 @@
 ## Project Name
-* Github-ap 
+* Password-Locker
 ## Author
- Evalinemacharia
+ Evaline Macharia
 
 ## Project Description
-On Average, a person has at least 7 different accounts he or she has signed into, be it email, social media, entertainment or job portal accounts. It becomes really hard to remember all those passwords and even create new ones.
-## Setup instructions
+On Average, a person has at least 7 different accounts he or she has signed into, be it email, social media, entertainment or job portal accounts. It becomes really hard to remember all those passwords and even create new ones.This application will help us manage our passwords and even generate new passwords for us. 
 
-## Dependencies
 
 ## Project set-up description
 * Setup/Installation Requirements
@@ -24,7 +22,7 @@ Open the directory with your preffered text editor.
 
 ## Contact information
 * Evaline Macharia : evalinemacharia99@gmail.com
-* License
+
 
 ## MIT License
 

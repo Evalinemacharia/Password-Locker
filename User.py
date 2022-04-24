@@ -42,6 +42,7 @@ class Contact:
         delete a user account
         '''
         User.user_list.remove(self)
+
     @classmethod
     def find_user(cls, username):
         '''
@@ -51,3 +52,6 @@ class Contact:
             if user.username == username:
                 return  user    
     
+
+
+
