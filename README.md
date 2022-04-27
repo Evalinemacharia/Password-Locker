@@ -18,7 +18,7 @@ Open the directory with your preffered text editor.
 + python3.8
 
 ## The live link to Github-pages
-`https://github.com/Evalinemacharia/Password-Locker.git`
+* `https://github.com/Evalinemacharia/Password-Locker.git`
 
 ## Contact information
 * Evaline Macharia : evalinemacharia99@gmail.com

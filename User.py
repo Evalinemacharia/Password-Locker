@@ -15,7 +15,7 @@
 
 #         self.username = username
 #         self.password = password
-class Contact:
+class Credentials:
     """
     Class that generates new instances of credentials.
     """
